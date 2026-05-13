@@ -1,3 +1,14 @@
-# Mona Mayhem: The Context Crafter
+# 🚀 AI Context Crafter
 
-Full demonstration of advanced refactoring techniques using GitHub Copilot Context Engineering.
+A demonstration of advanced Context Engineering and code refactoring using GitHub Copilot.
+
+## 🛠️ Built With
+* GitHub Copilot
+* Modern Web Technologies
+* AI-Powered Workflows
+
+## 🚀 Deployment
+This project is live via HTMLPreview!
+
+---
+Built for **MLH GenAI Hack Week 2025** 🏆
